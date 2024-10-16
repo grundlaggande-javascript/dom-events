@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.click-button,
+.hover-box {
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid #333;
+  text-align: center;
+  width: 200px;
+}
+.hover-box {
+  background-color: lightgray;
+}
+.input-field {
+  margin: 20px;
+  padding: 5px;
+}
+.output {
+  margin-top: 20px;
+  font-size: 1.2em;
+  color: green;
+}
